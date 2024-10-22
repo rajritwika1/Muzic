@@ -19,6 +19,12 @@ Designed to provide an optimal user experience on both desktop and mobile device
 
 7.Dynamic Data Rendering: All content (songs, artists, albums) is rendered dynamically based on the user's interactions.
 
+## screenshots
+
+![playing](https://github.com/user-attachments/assets/f5012bad-6222-4022-b101-ccaea56ed7af)
+![bg](https://github.com/user-attachments/assets/b482fcde-2a06-4fbb-a824-b03ab43db64b)
+
+
 ## Future Enhancements
 Full song streaming support
 
